@@ -1,2 +1,2 @@
-This project is about git and github.
+#This project is about git and github.
 
